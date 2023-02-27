@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677484803 source:c:\users\ursch\documents\jobprojects\discreettodigitalconverter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+

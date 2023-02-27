@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677484928 source:c:\users\ursch\documents\jobprojects\digitaltodiscreetsignalconverter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+
+1677394024 source:c:\users\ursch\documents\jobprojects\digitaltodiscreetsignalconverter\discreettodigitalsignalconverter.c
+
